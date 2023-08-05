@@ -1,0 +1,44 @@
+body {
+    background-image:url("pk.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+}
+
+
+
+label {
+    display: block;
+    padding:5px;
+    
+}
+form {
+    text-align: center;
+    background-color: bisque;
+    margin:0px 250px 0px 250px;
+    border :2px solid black;
+   
+    
+}
+h1 {
+    text-align: center;
+    background-color: cadetblue;
+    margin:0px 250px 0px 250px;
+    border :2px solid black;
+}
+#submit {
+     padding :10px;
+}
+input[type=submit] {
+           background-color: rgb(138, 81, 130);
+            
+}
+input[type=submit]:hover {
+    background-color:rgb(155, 100, 75) ;
+}
+input {
+    border :2px solid black;
+    border-radius: 3px;
+}
+select {
+    border :2px solid black;
+}
